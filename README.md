@@ -30,4 +30,4 @@ La tastiera aggiunge i seguenti caratteri:
 ![alt gr](Screenshot/5_AltGr.png)
 
 • **ALT GR + SHIFT:**<br>
-![shift + alt gr](Screenshot/6_Shift+AltGr.png)
+![shift + alt gr](Screenshot/6_AltGr+Shift.png)
