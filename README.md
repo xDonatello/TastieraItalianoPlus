@@ -29,5 +29,5 @@ La tastiera aggiunge i seguenti caratteri:
 • **ALT GR:**<br>
 ![alt gr](Screenshot/5_AltGr.png)
 
-• **SHIFT + ALT GR:**<br>
+• **ALT GR + SHIFT:**<br>
 ![shift + alt gr](Screenshot/6_Shift+AltGr.png)
