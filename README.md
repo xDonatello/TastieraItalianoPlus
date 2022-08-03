@@ -19,9 +19,11 @@ Il layout è stato creato con **[Microsoft Keyboard Layout Creator (MSKLC) v1.4]
 
 ## Aggiornamento
 Nell'eventualità di nuove versioni da installare, è necessario:
-- **Rimuovere** il layout già presente (Preferenze lingua > Italiano (Italia) > "Opzioni" > Italiano+ > "Rimuovi")<br>
+- **Rimuovere** il layout già presente<br>
+(Preferenze lingua > Italiano (Italia) > "Opzioni" > Italiano+ > "Rimuovi")<br>
 ![lingue](Screenshot/Windows2.png)
-- **Disinstallare** il programma "Tastiera Italiano+" dai programmi (Start > App e funzionalità > Tastiera Italiano+ > "Disinstalla")<br>
+- **Disinstallare** il programma "Tastiera Italiano+" dai programmi<br>
+(Start > App e funzionalità > Tastiera Italiano+ > "Disinstalla")<br>
 ![lingue](Screenshot/Windows3.png)
 
 ## Vantaggi
