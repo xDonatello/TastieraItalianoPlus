@@ -10,11 +10,11 @@ Il layout è stato creato con **[Microsoft Keyboard Layout Creator (MSKLC) v1.4]
 **In questo layout, che ho chiamato "Italiano+", sono presenti tutte le vocali accentate maiuscole più altri caratteri speciali che possono tornare utili.** I caratteri speciali aggiuntivi sono inseriti in punti intuitivi e facili da ricordare.
 
 ## Installazione e attivazione
-Scaricare il contenuto del repository (*Code>Download ZIP*), decomprimerlo ed aprire "**Tastiera Italiano+/setup.exe**.<br>
-L'installazione dura pochi secondi.
-
-In seguito, aprire il selettore delle **preferenze di lingua** su Windows e selezionare "**Italiano+**":
-
+- Scaricare lo **zip** dell'ultima versione STABILE dalla sezione "**[Releases](https://github.com/xDonatello/TastieraItalianoPlus/releases)**"<br>
+«oppure scaricare il contenuto del repository (*Code>Download ZIP*) se si vuole provare l'ultima versione con le nuove aggiunte»
+- Decomprimerlo ed aprire "**Tastiera Italiano+/setup.exe**"<br>
+«L'installazione dura pochi secondi»
+- In seguito, aprire il selettore delle **preferenze di lingua** su Windows e selezionare "**Italiano+**":<br>
 ![lingue](Screenshot/Windows.png)
 
 ## Vantaggi
