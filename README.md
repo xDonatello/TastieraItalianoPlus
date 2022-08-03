@@ -20,9 +20,9 @@ Il layout è stato creato con **[Microsoft Keyboard Layout Creator (MSKLC) v1.4]
 ## Aggiornamento
 Nell'eventualità di nuove versioni da installare, è necessario:
 - **Rimuovere** il layout già presente (Preferenze lingua > Italiano (Italia) > "Opzioni" > Italiano+ > "Rimuovi")<br>
-![lingue](Screenshot/Windows1.png) ![lingue](Screenshot/Windows2.png) ![lingue](Screenshot/Windows3.png)
+![lingue](Screenshot/Windows2.png)
 - **Disinstallare** il programma "Tastiera Italiano+" dai programmi (Start > App e funzionalità > Tastiera Italiano+ > "Disinstalla")<br>
-![lingue](Screenshot/Windows4.png)
+![lingue](Screenshot/Windows3.png)
 
 ## Vantaggi
 La tastiera aggiunge i seguenti caratteri:
