@@ -11,7 +11,7 @@ Il layout è stato creato con **[Microsoft Keyboard Layout Creator (MSKLC) v1.4]
 
 ## Installazione e attivazione
 - Scaricare lo **zip** dell'ultima versione STABILE dalla sezione "**[Releases](https://github.com/xDonatello/TastieraItalianoPlus/releases)**"<br>
-«oppure scaricare il contenuto del repository (*Code>Download ZIP*) se si vuole provare l'ultima versione con le nuove aggiunte»
+«oppure scaricare il contenuto del repository (*Code>Download ZIP*) se si vuole provare l'ultima versione BETA con le nuove aggiunte»
 - Decomprimerlo ed aprire "**Tastiera Italiano+/setup.exe**"<br>
 «L'installazione dura pochi secondi»
 - In seguito, aprire il selettore delle **preferenze di lingua** su Windows e selezionare "**Italiano+**":<br>
@@ -40,3 +40,6 @@ La tastiera aggiunge i seguenti caratteri:
 
 • **ALT GR + SHIFT:**<br>
 ![shift + alt gr](Screenshot/6_AltGr+Shift.png)
+
+##
+https://github.com/xDonatello/TastieraItalianoPlus
